@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Roberto Biello
+tagline:          'Postdoctoral Researcher'
+description:      'Postdoctoral Researcher'
+url:              http://rsbiello/github.io
+
+author:
+  name:           'Roberto Biello'
+  url:            https://sites.google.com/unife.it/popgg/home
+
+# paginate:         5
+
+github:
+  repo:           https://github.com/rsbiello/rsbiello/github.io
