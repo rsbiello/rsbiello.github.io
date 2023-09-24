@@ -12,3 +12,5 @@ Fuselli S, Greco S, **Biello R**, McDougall C, Palmitessa S, Lago M, Meneghetti 
 
 Mathers TC, Wouters RH, Mugford ST, **Biello R**, Van Oosterhout C, Hogenhout SA (2023). [Hybridisation has shaped a recent radiation of grass-feeding aphids](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-023-01649-4). *BMC Biology*, 21 (1), 1-25. doi:https://doi.org/10.1186/s12915-023-01649-4
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.27.509720v1)</sub> 
+
+Gabrielli M, Benazzo A, **Biello R**, Ancona L, Fuselli S, Iannucci A, Balacco J, Mountcastle J, Tracey A, Ficetola GF, Salvi D, Sollitto M, Fedrigo O, Formenti G, Jarvis ED, Gerdol M, Ciofi C, Trucchi E, Bertorelle G (2023). [A high-quality reference genome for the critically endangered Aeolian wall lizard, *Podarcis raffonei*](https://academic.oup.com/jhered/article-abstract/114/3/279/7068064?redirectedFrom=fulltext). *Journal of Heredity*, 114(3), 279-285. doi:https://doi.org/10.1093/jhered/esad014
