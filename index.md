@@ -19,4 +19,4 @@ I received my PhD in the Department of Life Sciences and Biotechnology at the Un
 
 
 
-![photo](https://github.com/rsbiello/rsbiello.github.io/raw/main/extras/IMG_20201206_175245_961_2.jpg)
+![photo](https://github.com/rsbiello/rsbiello.github.io/raw/main/extras/467E625F-D0F8-4841-B600-98931CBEC874.jpg)
