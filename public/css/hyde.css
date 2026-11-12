@@ -137,15 +137,8 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48rem) {
   .content {
     max-width: none;
-    margin-left: 20rem;
-    margin-right: 2rem; /* orig. is 2 */
-  }
-}
-
-@media (min-width: 64rem) {
-  .content {
-    margin-left: 22rem;
-    margin-right: 4rem; /* orig. is 4, this seems to be the right side margin? */
+    margin-left: 19.5rem;
+    margin-right: 1.5rem;
   }
 }
 
@@ -162,15 +155,8 @@ a.sidebar-nav-item:focus {
     right: 0;
   }
   .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
-  }
-}
-
-@media (min-width: 64rem) {
-  .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
+    margin-left: 1.5rem;
+    margin-right: 19.5rem;
   }
 }
 
