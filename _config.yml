@@ -1,21 +1,12 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
 
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Roberto Biello
-tagline:          'Postdoctoral Researcher'
-description:      'Postdoctoral Researcher'
-url:              http://rsbiello/github.io
+title: Roberto Biello
+tagline: Conservation and population genomics
+description: Conservation and population genomics
+url: https://rsbiello.github.io
 
 author:
-  name:           'Roberto Biello'
-  url:            https://sites.google.com/unife.it/popgg/home
-
-# paginate:         5
-
-github:
-  repo:           https://github.com/rsbiello/rsbiello/github.io
+  name: Roberto Biello
+  url: https://rsbiello.github.io

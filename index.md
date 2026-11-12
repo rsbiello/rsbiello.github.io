@@ -3,20 +3,14 @@ layout: default
 title: Home
 ---
 
+## About me
 
-&nbsp;
+I’m an evolutionary biologist and conservation genomicist, currently a Marie Skłodowska-Curie Postdoctoral Fellow in the Morales Lab at the Globe Institute, University of Copenhagen.
 
+I use genomic data to study how population decline, isolation, and demographic history shape genetic diversity in species of conservation concern. My fellowship project, [REVEAL]({{ '/research/#reveal' | relative_url }}), combines comparative genomics, simulations, and machine learning to test when genomic erosion can help predict extinction risk.
 
-I am an evolutionary biologist and population geneticist, and currently I am a postdoc in the Department of Life Sciences and Biotechnology at the University of Ferrara working with Giorgio Bertorelle, Andrea Benazzo and Francesca Raffini (Stazione Zoologica Anton Dohrn).
+Before moving to Copenhagen, I held postdoctoral positions at the University of Ferrara and the John Innes Centre. I earned my PhD at the University of Ferrara with Giorgio Bertorelle and spent part of my doctoral training at the University of Edinburgh and Griffith University.
 
-I have been previously a postdoc in the Department of Crop Genetics at the John Innes Centre with Saskia Hogenhout and Thomas Mathers.
-I received my PhD in the Department of Life Sciences and Biotechnology at the University of Ferrara working with Giorgio Bertorelle. During my PhD I visited the Lohse Lab at University of Edinburgh and the Hughes Lab at Griffith University.
+[Email me](mailto:r.s.biello@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=yTnUnBEAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-5916-884X)
 
-**Contact me at roberto.biello@unife.it**  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **or r.s.biello@gmail.com**  
-
-&nbsp;
-
-
-
-![photo](https://github.com/rsbiello/rsbiello.github.io/raw/main/extras/467E625F-D0F8-4841-B600-98931CBEC874.mod.jpg)
+![Roberto Biello]({{ '/extras/467E625F-D0F8-4841-B600-98931CBEC874.mod.jpg' | relative_url }})
