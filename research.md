@@ -47,8 +47,8 @@ I use genomic data to study how population decline, isolation and demographic hi
 
 <section class="research-project" aria-labelledby="italian-vertebrates">
   <div>
-    <h3 id="italian-vertebrates">Whole-genome sequencing of Italian terrestrial vertebrates</h3>
-    
+    <h3 id="italian-vertebrates">GENODIV</h3>
+    <p class="project-topic"><span>Genomic erosion and extinction risk</span></p>
     <p>We plan to sample around 40 individuals from each of 15–20 terrestrial vertebrate species across Italy and sequence their genomes at more than 30× coverage. We will build de novo reference genomes for five species and estimate genetic diversity and population structure across the dataset.</p>
   </div>
   <figure>
