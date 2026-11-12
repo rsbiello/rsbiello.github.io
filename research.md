@@ -3,14 +3,11 @@ layout: page
 title: Research
 ---
 
-I use genomic data to study how population decline, isolation and demographic history shape genetic diversity, and how that evidence can inform conservation.
+I study how population decline, isolation and changes in species’ ranges shape genetic diversity in wild populations. I use whole-genome data to reconstruct demographic history and examine how past events leave signatures of inbreeding, loss of diversity and changes in the frequency of potentially harmful variants. I combine analyses of wild populations with simulations to test which evolutionary processes could explain the patterns we observe.
+
+My research asks when these genomic patterns can help assess extinction risk or guide conservation decisions. In REVEAL, I test how the relationship between genomic erosion and extinction risk varies across species and how much we can learn when only a single reference genome is available. In species-focused projects, I use genomic evidence to investigate population connectivity and local adaptation, and to help assess options for monitoring and translocation.
 
 <style>
-@media (min-width: 48rem) {
-  .content:has(.research-project) {
-    max-width: none;
-  }
-}
 .research-project {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 0.65fr);
@@ -47,8 +44,8 @@ I use genomic data to study how population decline, isolation and demographic hi
 
 <section class="research-project" aria-labelledby="italian-vertebrates">
   <div>
-    <h3 id="italian-vertebrates">GENODIV</h3>
-    <p class="project-topic"><span>Genomic erosion and extinction risk</span></p>
+    <h3 id="italian-vertebrates">Whole-genome sequencing of Italian terrestrial vertebrates</h3>
+    
     <p>We plan to sample around 40 individuals from each of 15–20 terrestrial vertebrate species across Italy and sequence their genomes at more than 30× coverage. We will build de novo reference genomes for five species and estimate genetic diversity and population structure across the dataset.</p>
   </div>
   <figure>
