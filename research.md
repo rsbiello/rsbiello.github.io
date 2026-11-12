@@ -6,6 +6,11 @@ title: Research
 I use genomic data to study how population decline, isolation and demographic history shape genetic diversity, and how that evidence can inform conservation.
 
 <style>
+@media (min-width: 48rem) {
+  .content:has(.research-project) {
+    max-width: none;
+  }
+}
 .research-project {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 0.65fr);
