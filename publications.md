@@ -11,6 +11,8 @@ For my full publication list, see [Google Scholar](https://scholar.google.com/ci
 <h3 id="year-2026">2026</h3>
 <div class="publication-list" markdown="1">
 
+Howe K, Agius DR, Alioto T, Aury JM, **Biello R**, et al. (2026). [Generating eukaryotic reference genome assemblies: Earth BioGenome Project quality standards and recommendations](https://arxiv.org/abs/2610.03075). *arXiv* preprint, arXiv:2610.03075.
+
 **Biello R**, Scapolatiello A, Fava S, et al. (2026). [Chromosome-level genome of the Adriatic sturgeon, *Acipenser naccarii*: A resource for polyploid fish genomics](https://doi.org/10.1093/jhered/esag023). *Journal of Heredity*, 117(4), 877–887.
 
 **Biello R**, Iannucci A, Fuselli S, Desiato E, Urbán R J, Fossi MC, Panti C, Mancia A (2026). [One Sea, Different Whales: Genomics Sheds Light on a Small Population of Fin Whales](https://doi.org/10.1093/gbe/evag084). *Genome Biology and Evolution*, 18(4), evag084. Biello and Iannucci share first authorship.
