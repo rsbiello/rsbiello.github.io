@@ -50,7 +50,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <h3 id="apennine-brown-bear">Genomic diversity and local adaptation in the Apennine brown bear</h3>
     <p class="project-topic"><i>Ursus arctos marsicanus</i></p>
     <p>How have long-term isolation and local conditions shaped the genome of the Apennine brown bear? This project compares whole genomes from Apennine bears and other brown bear populations to reconstruct demographic history and characterize the genetic differences that distinguish the Apennine population. The analyses examine both protein-coding and regulatory regions to explore how much of that differentiation could reflect genetic drift or local adaptation. These comparisons can help place the population’s distinctive genetic variation in context when assessing its vulnerability and considering conservation options.</p>
-    <p><a href="https://doi.org/10.1093/molbev/msaf292">Related paper: Fabbri et al. (2025)</a></p>
+    <p><a href="https://doi.org/10.1093/molbev/msaf292">Fabbri et al. (2025)</a></p>
   </div>
   <figure>
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Orso_bruno_marsicano.jpg/960px-Orso_bruno_marsicano.jpg" alt="Close-up of a Marsican brown bear" loading="lazy" decoding="async">
@@ -63,6 +63,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <h3 id="hermanns-tortoise">Conservation genomics of Hermann’s tortoise</h3>
     <p class="project-topic"><i>Testudo hermanni</i></p>
     <p>Where has Hermann’s tortoise lost genetic diversity, and how should that history inform decisions about moving animals between populations? The project combines a reference genome with whole-genome data from both subspecies to reconstruct their divergence, identify past bottlenecks and locate populations with low diversity or high inbreeding. It also examines genomic regions associated with immunity and sensory function. Together, these analyses can help assess the risks of mixing historically differentiated populations and provide genomic evidence for decisions about translocation.</p>
+    <p><a href="https://doi.org/10.1111/eva.13431">Biello et al. (2022)</a> · <a href="https://doi.org/10.1016/j.fsigen.2020.102447">Biello et al. (2021)</a></p>
   </div>
   <figure>
     <img src="{{ '/extras/testudo.jpg' | relative_url }}" alt="Hermann’s tortoise among leaves" loading="lazy" decoding="async">
@@ -101,7 +102,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <h3 id="meadow-spittlebug">Population genomics of the meadow spittlebug</h3>
     <p class="project-topic"><i>Philaenus spumarius</i></p>
     <p>How have geography and climate shaped the meadow spittlebug, the main insect vector of <i>Xylella fastidiosa</i> in Europe? The study generated a chromosome-level reference genome and resequenced 430 individuals. It identified distinct lineages associated with boreal, temperate and semi-arid environments, and found evidence of local connectivity alongside limited long-distance dispersal. In Apulia, genomic scans highlighted candidate regions under selection, including genes in the sulfotransferase family. These results help explain how population history and local adaptation have shaped genomic variation in the species.</p>
-    <p><a href="https://doi.org/10.64898/2025.12.12.693891">Read the preprint</a></p>
+    <p><a href="https://doi.org/10.64898/2025.12.12.693891">Biello et al. (2025, preprint)</a></p>
   </div>
   <figure>
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Meadow_froghopper_%28Philaenus_spumarius%29.JPG/960px-Meadow_froghopper_%28Philaenus_spumarius%29.JPG" alt="Adult meadow spittlebug" loading="lazy" decoding="async">
@@ -114,7 +115,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <h3 id="fin-whales">Fin whale population genomics</h3>
     <p class="project-topic"><i>Balaenoptera physalus</i></p>
     <p>How isolated are Mediterranean fin whales from neighbouring Atlantic populations? The study compared whole genomes from the Mediterranean, Atlantic and Pacific to reconstruct population history and assess genetic diversity and connectivity. Mediterranean fin whales were genetically differentiated from North Atlantic populations, with some Mediterranean individuals showing evidence of Atlantic ancestry. This variation within the Mediterranean matters for conservation because the population’s distinctiveness and its connections with the Atlantic both help explain the genomic patterns observed today.</p>
-    <p><a href="https://doi.org/10.1093/gbe/evag084">Read the paper</a></p>
+    <p><a href="https://doi.org/10.1093/gbe/evag084">Biello et al. (2026)</a></p>
   </div>
   <figure>
     <img src="{{ '/extras/Fin%20Whale%20Ligurian%20sea%20copyright%20Danny%20Kessler.png' | relative_url }}" alt="Fin whale swimming underwater in the Ligurian Sea" loading="lazy" decoding="async">
@@ -127,7 +128,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <h3 id="adriatic-sturgeon">An Adriatic sturgeon reference genome</h3>
     <p class="project-topic"><i>Acipenser naccarii</i></p>
     <p>What can a reference genome reveal about chromosome evolution in a critically endangered fish? The study produced a chromosome-level genome assembly for the Adriatic sturgeon, whose genome retains the legacy of whole-genome duplication. Comparisons with other sturgeon genomes identified both conserved chromosome regions and differences in chromosome organization. The assembly provides a framework for studying genome evolution in polyploid fishes and a reference for future population genomic analyses of the Adriatic sturgeon.</p>
-    <p><a href="https://doi.org/10.1093/jhered/esag023">Read the paper</a></p>
+    <p><a href="https://doi.org/10.1093/jhered/esag023">Biello et al. (2026)</a></p>
   </div>
   <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Acipenser_naccarii.jpg" alt="Historical illustration of an Adriatic sturgeon" loading="lazy" decoding="async">
@@ -140,7 +141,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <h3 id="australian-lungfish">The origins of Australian lungfish populations</h3>
     <p class="project-topic"><i>Neoceratodus forsteri</i></p>
     <p>Were Australian lungfish native to rivers where historical records describe introductions? The study used genetic data and demographic modelling to compare alternative histories of native populations and human-mediated translocations. The results supported the presence of lungfish in some rivers before the documented introductions. Reconstructing those origins matters for conservation because management decisions can depend on whether a population represents long-established native diversity or derives from fish introduced from elsewhere.</p>
-    <p><a href="https://doi.org/10.1111/mec.17266">Read the paper</a></p>
+    <p><a href="https://doi.org/10.1111/mec.17266">Biello et al. (2024)</a></p>
   </div>
   <figure>
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Neoceratodontidae_Neoceratodus_forsteri_2.1.jpg/960px-Neoceratodontidae_Neoceratodus_forsteri_2.1.jpg" alt="Australian lungfish at Frankfurt Zoo" loading="lazy" decoding="async">
