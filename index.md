@@ -3,14 +3,39 @@ layout: default
 title: Home
 ---
 
-## About me
+<section class="hero" aria-labelledby="home-title">
+  <div class="hero-copy">
+    <p class="eyebrow">Conservation and population genomics</p>
+    <h1 id="home-title">What can genomes tell us about extinction risk?</h1>
+    <p>I’m Roberto Biello, a Marie Skłodowska-Curie Postdoctoral Fellow at the Globe Institute, University of Copenhagen. I study how population decline and isolation shape genetic diversity in wild populations.</p>
+    <div class="hero-links">
+      <a class="button" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">↗</span></a>
+      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+    </div>
+  </div>
+  <figure class="hero-image">
+    <img src="{{ '/public/starling-murmuration.webp' | relative_url }}" alt="A flock of starlings forming a murmuration" fetchpriority="high" decoding="async">
+    <figcaption>Starling murmuration · <a href="https://commons.wikimedia.org/wiki/File:Starling_murmuration.jpg">Walter Baxter</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a></figcaption>
+  </figure>
+</section>
 
-I’m an evolutionary biologist and conservation genomicist, currently a Marie Skłodowska-Curie Postdoctoral Fellow in the Morales Lab at the Globe Institute, University of Copenhagen.
-
-I use genomic data to study how population decline, isolation, and demographic history shape genetic diversity in species of conservation concern. My fellowship project, [REVEAL]({{ '/research/#reveal' | relative_url }}), combines comparative genomics, simulations, and machine learning to test when genomic erosion can help predict extinction risk.
-
-Before moving to Copenhagen, I held postdoctoral positions at the University of Ferrara and the John Innes Centre. I earned my PhD at the University of Ferrara with Giorgio Bertorelle and spent part of my doctoral training at the University of Edinburgh and Griffith University.
-
-[Email me](mailto:r.s.biello@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=yTnUnBEAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-5916-884X)
-
-![Roberto Biello]({{ '/extras/467E625F-D0F8-4841-B600-98931CBEC874.mod.jpg' | relative_url }})
+<section class="featured" aria-labelledby="featured-title">
+  <h2 id="featured-title">Featured research</h2>
+  <div class="project-grid">
+    <article class="project-card project-feature">
+      <p class="eyebrow">Marie Skłodowska-Curie fellowship</p>
+      <h3><a href="{{ '/research/' | relative_url }}#reveal">REVEAL</a></h3>
+      <p>I combine bird genomes, simulations, and machine learning to test when genomic erosion can help predict extinction risk.</p>
+    </article>
+    <article class="project-card">
+      <p class="eyebrow">Rough periwinkle</p>
+      <h3><a href="{{ '/research/' | relative_url }}#fiasco">FIASCO</a></h3>
+      <p>Why do some colonizations succeed while others fail?</p>
+    </article>
+    <article class="project-card">
+      <p class="eyebrow">Marine conservation</p>
+      <h3><a href="{{ '/research/' | relative_url }}#fin-whales">Fin whale genomics</a></h3>
+      <p>What do genomes reveal about the history and connectivity of Mediterranean fin whales?</p>
+    </article>
+  </div>
+</section>

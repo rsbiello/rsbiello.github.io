@@ -7,7 +7,9 @@ For my full publication list, see [Google Scholar](https://scholar.google.com/ci
 
 ## Selected publications
 
-### 2026
+<section markdown="block" class="publication-year" aria-labelledby="year-2026">
+<h3 id="year-2026">2026</h3>
+<div class="publication-list" markdown="1">
 
 **Biello R**, Scapolatiello A, Fava S, et al. (2026). [Chromosome-level genome of the Adriatic sturgeon, *Acipenser naccarii*: A resource for polyploid fish genomics](https://doi.org/10.1093/jhered/esag023). *Journal of Heredity*, 117(4), 877–887.
 
@@ -15,17 +17,32 @@ For my full publication list, see [Google Scholar](https://scholar.google.com/ci
 
 Gabrielli M, Benazzo A, **Biello R**, Iannucci A, Salvi D, Ficetola GF, Ciofi C, Trucchi E, Bertorelle G. [The relationship between genomic variation and genetic load: insights from small island populations](https://doi.org/10.1038/s41437-026-00835-8). *Heredity*, 135, 332–341 (2026).
 
-### 2025
+</div>
+</section>
+
+<section markdown="block" class="publication-year" aria-labelledby="year-2025">
+<h3 id="year-2025">2025</h3>
+<div class="publication-list" markdown="1">
 
 Fabbri G, **Biello R**, Gabrielli M, et al. [Coexisting With Humans: Genomic and Behavioral Consequences in a Small and Isolated Bear Population](https://doi.org/10.1093/molbev/msaf292). *Molecular Biology and Evolution* (2025).
 
 Ancona L, Fernandes FAN, **Biello R**, et al. [Evolutionary Dynamics of Transposable Element Activity and Regulation in the Apennine Yellow-Bellied Toad (*Bombina pachypus*)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12008745/). *Genome Biology and Evolution* (2025).
 
-### 2024
+</div>
+</section>
+
+<section markdown="block" class="publication-year" aria-labelledby="year-2024">
+<h3 id="year-2024">2024</h3>
+<div class="publication-list" markdown="1">
 
 **Biello R**, Ghirotto S, Schmidt DJ, Fuselli S, Roberts DT, Espinoza T, Hughes JM, Bertorelle G (2024). [Unravelling the mystery of endemic versus translocated populations of the endangered Australian lungfish (*Neoceratodus forsteri*)](https://doi.org/10.1111/mec.17266). *Molecular Ecology*, 33(5), e17266.
 
-### 2023
+</div>
+</section>
+
+<section markdown="block" class="publication-year" aria-labelledby="year-2023">
+<h3 id="year-2023">2023</h3>
+<div class="publication-list" markdown="1">
 
 Fuselli S, Greco S, **Biello R**, McDougall C, Palmitessa S, Lago M, Meneghetti C, Trucchi E, Rota Stabelli O, Biscotti AM, Schmidt DJ, Roberts DT, Espinoza T, Hughes JM, Ometto L, Gerdol M, Bertorelle G (2023). [Signature of relaxation of selection in the giant genome of lungfish](https://doi.org/10.1093/molbev/msad193). *Molecular Biology and Evolution*, msad193.
 
@@ -41,10 +58,18 @@ Gabrielli M, Benazzo A, **Biello R**, Ancona L, Fuselli S, Iannucci A, Balacco J
 
 [Preprint](https://www.biorxiv.org/content/10.1101/464057v1.abstract)   · [Data archive](https://doi.org/10.5281/zenodo.6527316)
 
-### 2022
+</div>
+</section>
+
+<section markdown="block" class="publication-year" aria-labelledby="year-2022">
+<h3 id="year-2022">2022</h3>
+<div class="publication-list" markdown="1">
 
 Chiocchio A, Zampiglia M, Biaggini M, **Biello R**, Di Tizio L, Leonetti FL, Olivieri O, Sperone E, Trabalza-Marinucci M, Corti C, Canestrelli D (2022). [Unveiling a hotspot of genetic diversity in southern Italy for the endangered Hermann’s tortoise *Testudo hermanni*](https://doi.org/10.1186/s12862-022-02075-w). *BMC Ecology and Evolution*, 22(1), 131.
 
 **Biello R**, Zampiglia M, Fuselli S, Fabbri G, Bisconti R, Chiocchio A, Mazzotti S, Trucchi E, Canestrelli D, Bertorelle G (2022). [From STRs to SNPs via ddRAD‐seq: Geographic assignment of confiscated tortoises at reduced costs](https://doi.org/10.1111/eva.13431). *Evolutionary Applications*, 15(9), 1344-1359.
 
 [Preprint](https://www.biorxiv.org/content/10.1101/2021.12.07.471568v1)   · [Data archive](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA777783)
+
+</div>
+</section>

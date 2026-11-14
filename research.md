@@ -7,27 +7,6 @@ I study how population decline, isolation and changes in species’ ranges shape
 
 My research asks when these genomic patterns can help assess extinction risk or guide conservation decisions. In REVEAL, I test how the relationship between genomic erosion and extinction risk varies across species and how much we can learn when only a single reference genome is available. In species-focused projects, I use genomic evidence to investigate population connectivity and local adaptation, and to help assess options for monitoring and translocation.
 
-<style>
-.research-project {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 0.65fr);
-  align-items: start;
-  gap: 1.4rem;
-  padding: 1.4rem 0;
-  border-bottom: 1px solid #ddd;
-}
-.research-project h3 { margin: 0 0 .25rem; }
-.research-project .project-topic { margin: 0 0 .6rem; }
-.research-project p:last-child { margin-bottom: 0; }
-.research-project figure { margin: 0; }
-.research-project img { width: 100%; height: auto; margin: 0 0 .3rem; }
-.research-project figcaption { font-size: .72rem; line-height: 1.4; }
-@media (max-width: 42rem) {
-  .research-project { grid-template-columns: 1fr; gap: .85rem; }
-  .research-project figure { max-width: 22rem; }
-}
-</style>
-
 ## Ongoing projects
 
 <section class="research-project" aria-labelledby="reveal">
