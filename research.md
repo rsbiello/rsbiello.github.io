@@ -40,8 +40,8 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <p>What happens to genetic load when a species expands its range, and how might that affect its ability to track a changing climate? The Apennine yellow-bellied toad offers a natural case study because it expanded northward after the last glaciation. Genomic comparisons along the expansion route help estimate whether potentially harmful variants accumulated during colonization. Spatially explicit simulations then test how the pace of climate change and the rate at which populations colonize suitable habitat interact to shape genetic load and the likelihood of a successful expansion.</p>
   </div>
   <figure>
-    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Geelbuikvuurpad_-_Apennine_yellow-bellied_toad_-_Bombina_pachypus_02.jpg/960px-Geelbuikvuurpad_-_Apennine_yellow-bellied_toad_-_Bombina_pachypus_02.jpg" alt="Apennine yellow-bellied toad" loading="lazy" decoding="async">
-    <figcaption><a href="https://commons.wikimedia.org/wiki/File:Geelbuikvuurpad_-_Apennine_yellow-bellied_toad_-_Bombina_pachypus_02.jpg">Bouke ten Cate</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></figcaption>
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Benny_Trapp_Bombina_variegata_pachypus.jpg/960px-Benny_Trapp_Bombina_variegata_pachypus.jpg" alt="Apennine yellow-bellied toad" loading="lazy" decoding="async">
+    <figcaption><a href="https://commons.wikimedia.org/wiki/File:Benny_Trapp_Bombina_variegata_pachypus.jpg">Benny Trapp</a> · <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></figcaption>
   </figure>
 </section>
 
