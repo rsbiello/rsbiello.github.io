@@ -13,3 +13,9 @@ author:
 
 plugins:
   - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "google86dc2bfe506e06c7.html"
+    values:
+      sitemap: false
