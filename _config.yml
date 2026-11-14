@@ -10,3 +10,6 @@ url: https://rsbiello.github.io
 author:
   name: Roberto Biello
   url: https://rsbiello.github.io
+
+plugins:
+  - jekyll-sitemap
