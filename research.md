@@ -50,6 +50,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <h3 id="apennine-brown-bear">Genomic diversity and local adaptation in the Apennine brown bear</h3>
     <p class="project-topic"><i>Ursus arctos marsicanus</i></p>
     <p>How have long-term isolation and local conditions shaped the genome of the Apennine brown bear? This project compares whole genomes from Apennine bears and other brown bear populations to reconstruct demographic history and characterize the genetic differences that distinguish the Apennine population. The analyses examine both protein-coding and regulatory regions to explore how much of that differentiation could reflect genetic drift or local adaptation. These comparisons can help place the population’s distinctive genetic variation in context when assessing its vulnerability and considering conservation options.</p>
+    <p><a href="https://doi.org/10.1093/molbev/msaf292">Related paper: Fabbri et al. (2025)</a></p>
   </div>
   <figure>
     <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Orso_bruno_marsicano.jpg/960px-Orso_bruno_marsicano.jpg" alt="Close-up of a Marsican brown bear" loading="lazy" decoding="async">
@@ -93,7 +94,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
   </figure>
 </section>
 
-## Published projects
+## Past projects
 
 <section class="research-project" aria-labelledby="fin-whales">
   <div>
