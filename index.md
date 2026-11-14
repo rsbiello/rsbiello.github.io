@@ -14,8 +14,8 @@ title: Home
     </div>
   </div>
   <figure class="hero-image">
-    <img src="{{ '/public/starling-murmuration.webp' | relative_url }}" alt="A flock of starlings forming a murmuration" fetchpriority="high" decoding="async">
-    <figcaption>Starling murmuration · <a href="https://commons.wikimedia.org/wiki/File:Starling_murmuration.jpg">Walter Baxter</a> · <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a></figcaption>
+    <img src="{{ '/public/tortoise-close-up.webp' | relative_url }}" alt="Close-up of a young tortoise resting in a hand" fetchpriority="high" decoding="async">
+    <figcaption>Photo by Roberto Biello · AI-assisted edit</figcaption>
   </figure>
 </section>
 
