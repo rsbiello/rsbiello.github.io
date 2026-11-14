@@ -103,8 +103,8 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <p><a href="https://doi.org/10.1093/gbe/evag084">Read the paper</a></p>
   </div>
   <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/LMazzuca_Fin_Whale.jpg" alt="Fin whale surfacing in Alaska" loading="lazy" decoding="async">
-    <figcaption><a href="https://commons.wikimedia.org/wiki/File:LMazzuca_Fin_Whale.jpg">Lori Mazzuca</a> · <a href="https://creativecommons.org/licenses/by-sa/2.5/">CC BY-SA 2.5</a></figcaption>
+    <img src="{{ '/extras/Fin%20Whale%20Ligurian%20sea%20copyright%20Danny%20Kessler.png' | relative_url }}" alt="Fin whale swimming underwater in the Ligurian Sea" loading="lazy" decoding="async">
+    <figcaption>© Danny Kessler. Used with permission.</figcaption>
   </figure>
 </section>
 
