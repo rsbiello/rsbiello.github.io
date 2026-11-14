@@ -49,6 +49,7 @@ Before moving to Copenhagen, I held postdoctoral positions at the University of 
   <a href="mailto:r.s.biello@gmail.com">Email me</a>
   <a href="https://scholar.google.com/citations?user=yTnUnBEAAAAJ&amp;hl=en">Google Scholar</a>
   <a href="https://orcid.org/0000-0002-5916-884X">ORCID</a>
+  <a href="https://www.linkedin.com/in/roberto-biello-a4545639a/">LinkedIn</a>
 </p>
 
 </div>
