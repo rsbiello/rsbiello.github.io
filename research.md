@@ -28,7 +28,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <p>How is genetic diversity distributed within and among populations of Italy’s terrestrial vertebrates? GENODIV builds a comparable genomic baseline across 15–20 species. The sampling plan targets around 40 individuals per species, with whole-genome sequencing at more than 30× coverage and de novo reference assemblies for five species. Comparing genetic diversity and population structure across species can reveal where populations are strongly differentiated or have unusually low diversity. The resulting dataset provides a starting point for more detailed studies of population history and for future genomic monitoring.</p>
   </div>
   <figure>
-    <img src="{{ '/extras/salamandra.jpg' | relative_url }}" alt="Fire salamander on the forest floor" loading="lazy" decoding="async">
+    <img src="{{ '/extras/salamandra.jpg' | relative_url }}" alt="Fire salamander on the forest floor" loading="lazy" decoding="async" style="filter: brightness(1.25);">
     <figcaption>Photo by Mattia Baricordi</figcaption>
   </figure>
 </section>
