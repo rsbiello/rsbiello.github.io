@@ -144,7 +144,7 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <p><a href="https://doi.org/10.1111/mec.17266">Biello et al. (2024)</a></p>
   </div>
   <figure>
-    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Neoceratodontidae_Neoceratodus_forsteri_2.1.jpg/960px-Neoceratodontidae_Neoceratodus_forsteri_2.1.jpg" alt="Australian lungfish at Frankfurt Zoo" loading="lazy" decoding="async">
-    <figcaption><a href="https://commons.wikimedia.org/wiki/File:Neoceratodontidae_Neoceratodus_forsteri_2.1.jpg">NasserHalaweh</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></figcaption>
+    <img src="{{ '/extras/lungfish-engraving.jpg' | relative_url }}" alt="Historical engraving of an Australian lungfish among aquatic plants" loading="lazy" decoding="async">
+    <figcaption>Gustav Mützel, <i>The Royal Natural History</i>, vol. 5, p. 327. <a href="https://www.biodiversitylibrary.org/item/259135">Biodiversity Heritage Library</a> · Public domain.</figcaption>
   </figure>
 </section>
