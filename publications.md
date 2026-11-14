@@ -46,17 +46,11 @@ Ancona L, Fernandes FAN, **Biello R**, et al. [Evolutionary Dynamics of Transpos
 
 Fuselli S, Greco S, **Biello R**, McDougall C, Palmitessa S, Lago M, Meneghetti C, Trucchi E, Rota Stabelli O, Biscotti AM, Schmidt DJ, Roberts DT, Espinoza T, Hughes JM, Ometto L, Gerdol M, Bertorelle G (2023). [Signature of relaxation of selection in the giant genome of lungfish](https://doi.org/10.1093/molbev/msad193). *Molecular Biology and Evolution*, msad193.
 
-[Code on GitHub](https://github.com/rsbiello/Lungfish_relax)
-
 Mathers TC, Wouters RH, Mugford ST, **Biello R**, Van Oosterhout C, Hogenhout SA (2023). [Hybridisation has shaped a recent radiation of grass-feeding aphids](https://doi.org/10.1186/s12915-023-01649-4). *BMC Biology*, 21 (1), 1-25.
-
-[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.27.509720v1)
 
 Gabrielli M, Benazzo A, **Biello R**, Ancona L, Fuselli S, Iannucci A, Balacco J, Mountcastle J, Tracey A, Ficetola GF, Salvi D, Sollitto M, Fedrigo O, Formenti G, Jarvis ED, Gerdol M, Ciofi C, Trucchi E, Bertorelle G (2023). [A high-quality reference genome for the critically endangered Aeolian wall lizard, *Podarcis raffonei*](https://doi.org/10.1093/jhered/esad014). *Journal of Heredity*, 114(3), 279-285.
 
 **Biello R**, Brunelli A, Sozio G, Havenstein K, Mortelliti A, Ketmaier V, Vilaça ST, Bertorelle G (2023). [The genetic structure and connectivity in two sympatric rodent species with different life histories are similarly affected by land use disturbances](https://doi.org/10.1007/s10592-022-01485-z). *Conservation Genetics*, 24(1), 59-72.
-
-[Preprint](https://www.biorxiv.org/content/10.1101/464057v1.abstract)   · [Data archive](https://doi.org/10.5281/zenodo.6527316)
 
 </div>
 </section>
@@ -69,7 +63,25 @@ Chiocchio A, Zampiglia M, Biaggini M, **Biello R**, Di Tizio L, Leonetti FL, Oli
 
 **Biello R**, Zampiglia M, Fuselli S, Fabbri G, Bisconti R, Chiocchio A, Mazzotti S, Trucchi E, Canestrelli D, Bertorelle G (2022). [From STRs to SNPs via ddRAD‐seq: Geographic assignment of confiscated tortoises at reduced costs](https://doi.org/10.1111/eva.13431). *Evolutionary Applications*, 15(9), 1344-1359.
 
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.12.07.471568v1)   · [Data archive](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA777783)
+</div>
+</section>
+
+<section markdown="block" class="publication-year" aria-labelledby="year-2021">
+<h3 id="year-2021">2021</h3>
+<div class="publication-list" markdown="1">
+
+**Biello R**, Zampiglia M, Corti C, et al. (2021). [Mapping the geographic origin of captive and confiscated Hermann’s tortoises: A genetic toolkit for conservation and forensic analyses](https://doi.org/10.1016/j.fsigen.2020.102447). *Forensic Science International: Genetics*, 51, 102447.
+
+**Biello R**, Singh A, Godfrey CJ, et al. (2021). [A chromosome-level genome assembly of the woolly apple aphid, *Eriosoma lanigerum* Hausmann (Hemiptera: Aphididae)](https://doi.org/10.1111/1755-0998.13258). *Molecular Ecology Resources*, 21(1), 316–326.
+
+</div>
+</section>
+
+<section markdown="block" class="publication-year" aria-labelledby="year-2020">
+<h3 id="year-2020">2020</h3>
+<div class="publication-list" markdown="1">
+
+Raffini F, Bertorelle G, **Biello R**, D’Urso G, Russo D, Bosso L (2020). [From Nucleotides to Satellite Imagery: Approaches to Identify and Manage the Invasive Pathogen *Xylella fastidiosa* and Its Insect Vectors in Europe](https://doi.org/10.3390/su12114508). *Sustainability*, 12(11), 4508.
 
 </div>
 </section>
