@@ -15,7 +15,7 @@ title: Home
   </div>
   <figure class="hero-image">
     <img src="{{ '/public/tortoise-close-up.webp' | relative_url }}" alt="Close-up of a young tortoise resting in a hand" fetchpriority="high" decoding="async">
-    <figcaption>Photo by Roberto Biello · AI-assisted edit</figcaption>
+    <figcaption>Photo by Roberto Biello</figcaption>
   </figure>
 </section>
 
