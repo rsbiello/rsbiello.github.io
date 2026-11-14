@@ -96,6 +96,19 @@ My research asks when these genomic patterns can help assess extinction risk or 
 
 ## Past projects
 
+<section class="research-project" aria-labelledby="meadow-spittlebug">
+  <div>
+    <h3 id="meadow-spittlebug">Population genomics of the meadow spittlebug</h3>
+    <p class="project-topic"><i>Philaenus spumarius</i></p>
+    <p>How have geography and climate shaped the meadow spittlebug, the main insect vector of <i>Xylella fastidiosa</i> in Europe? The study generated a chromosome-level reference genome and resequenced 430 individuals. It identified distinct lineages associated with boreal, temperate and semi-arid environments, and found evidence of local connectivity alongside limited long-distance dispersal. In Apulia, genomic scans highlighted candidate regions under selection, including genes in the sulfotransferase family. These results help explain how population history and local adaptation have shaped genomic variation in the species.</p>
+    <p><a href="https://doi.org/10.64898/2025.12.12.693891">Read the preprint</a></p>
+  </div>
+  <figure>
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Meadow_froghopper_%28Philaenus_spumarius%29.JPG/960px-Meadow_froghopper_%28Philaenus_spumarius%29.JPG" alt="Adult meadow spittlebug" loading="lazy" decoding="async">
+    <figcaption><a href="https://commons.wikimedia.org/wiki/File:Meadow_froghopper_(Philaenus_spumarius).JPG">Charles J. Sharp</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></figcaption>
+  </figure>
+</section>
+
 <section class="research-project" aria-labelledby="fin-whales">
   <div>
     <h3 id="fin-whales">Fin whale population genomics</h3>
