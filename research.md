@@ -28,8 +28,8 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <p>How is genetic diversity distributed within and among populations of Italy’s terrestrial vertebrates? GENODIV builds a comparable genomic baseline across 15–20 species. The sampling plan targets around 40 individuals per species, with whole-genome sequencing at more than 30× coverage and de novo reference assemblies for five species. Comparing genetic diversity and population structure across species can reveal where populations are strongly differentiated or have unusually low diversity. The resulting dataset provides a starting point for more detailed studies of population history and for future genomic monitoring.</p>
   </div>
   <figure>
-    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Abruzzo_landscape.jpg/960px-Abruzzo_landscape.jpg" alt="Mountain landscape in Abruzzo, Italy" loading="lazy" decoding="async">
-    <figcaption><a href="https://commons.wikimedia.org/wiki/File:Abruzzo_landscape.jpg">Zoe Olivieri</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></figcaption>
+    <img src="{{ '/extras/salamandra.jpg' | relative_url }}" alt="Fire salamander on the forest floor" loading="lazy" decoding="async">
+    <figcaption>Photo by Mattia Baricordi</figcaption>
   </figure>
 </section>
 
@@ -64,8 +64,8 @@ My research asks when these genomic patterns can help assess extinction risk or 
     <p>Where has Hermann’s tortoise lost genetic diversity, and how should that history inform decisions about moving animals between populations? The project combines a reference genome with whole-genome data from both subspecies to reconstruct their divergence, identify past bottlenecks and locate populations with low diversity or high inbreeding. It also examines genomic regions associated with immunity and sensory function. Together, these analyses can help assess the risks of mixing historically differentiated populations and provide genomic evidence for decisions about translocation.</p>
   </div>
   <figure>
-    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Hermann%27s_Tortoise_%28Testudo_hermanni%29_%28CWPG%29.jpg/960px-Hermann%27s_Tortoise_%28Testudo_hermanni%29_%28CWPG%29.jpg" alt="Hermann’s tortoise" loading="lazy" decoding="async">
-    <figcaption><a href="https://commons.wikimedia.org/wiki/File:Hermann%27s_Tortoise_%28Testudo_hermanni%29_%28CWPG%29.jpg">Vauxford</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></figcaption>
+    <img src="{{ '/extras/testudo.jpg' | relative_url }}" alt="Hermann’s tortoise among leaves" loading="lazy" decoding="async">
+    <figcaption>Photo by Stefano Mazzotti</figcaption>
   </figure>
 </section>
 
