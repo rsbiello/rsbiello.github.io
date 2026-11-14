@@ -20,3 +20,11 @@ Before moving to Copenhagen, I held postdoctoral positions at the University of 
 
 </div>
 </div>
+
+## Professional memberships
+
+- **IUCN Species Survival Commission (IUCN SSC)** · Member
+- **Società Italiana di Biologia Evoluzionistica (SIBE)** · Executive Committee member
+- **Italian Group in Conservation Genetics and Genomics (GGC)** · Member since 2025
+- **European Reference Genome Atlas (ERGA)** · Member since 2023
+- **Amphibian Genomics Consortium (AGC)** · Member since 2023
