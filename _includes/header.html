@@ -1,0 +1,11 @@
+<header class="site-header">
+  <div class="shell header-inner">
+    <a class="wordmark" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <nav aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}"{% if page.title == 'Home' %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/research/' | relative_url }}"{% if page.title == 'Research' %} aria-current="page"{% endif %}>Research</a>
+      <a href="{{ '/publications/' | relative_url }}"{% if page.title == 'Publications' %} aria-current="page"{% endif %}>Publications</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.title == 'About' %} aria-current="page"{% endif %}>About</a>
+    </nav>
+  </div>
+</header>

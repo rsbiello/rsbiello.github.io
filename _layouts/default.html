@@ -1,15 +1,21 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-
+<html lang="en">
   {% include head.html %}
-
   <body>
-
-    {% include sidebar.html %}
-
-    <div class="content container">
+    <a class="skip-link" href="#main">Skip to content</a>
+    {% include header.html %}
+    <main id="main" class="shell">
       {{ content }}
-    </div>
-
+    </main>
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <span>Roberto Biello · University of Copenhagen</span>
+        <nav aria-label="Profile links">
+          <a href="mailto:r.s.biello@gmail.com">Email</a>
+          <a href="https://github.com/rsbiello">GitHub</a>
+          <a href="https://orcid.org/0000-0002-5916-884X">ORCID</a>
+        </nav>
+      </div>
+    </footer>
   </body>
 </html>
